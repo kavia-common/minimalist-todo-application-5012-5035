@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/minimalist-todo-application-5012-5035/todo_frontend"
+}
